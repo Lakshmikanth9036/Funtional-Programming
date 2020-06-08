@@ -1,0 +1,11 @@
+{
+	"Stocks": [
+		"{\"stockName\":\"mac\",\"shares\":60,\"shareprice\":12.4}",
+		"{\"stockName\":\"Netflix\",\"shares\":234,\"shareprice\":12.4}",
+		"{\"stockName\":\"amazon\",\"shares\":324,\"shareprice\":23.5}",
+		"{\"stockName\":\"google\",\"shares\":435,\"shareprice\":53.4}"
+	],
+	"CompanyShares": [
+		"{\"symbol\":\"mac\",\"shares\":60,\"status\":\"sell\",\"dateNtime\":{\"date\":{\"year\":2020,\"month\":2,\"day\":12},\"time\":{\"hour\":17,\"minute\":31,\"second\":58,\"nano\":690000000}}}"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"Clinic": [
+		"{\"id\":1,\"name\":\"narayana\",\"available\":[{\"date\":21,\"month\":\"jan\",\"availablity\":\"am\"}]}"
+	]
+}

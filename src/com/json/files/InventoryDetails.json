@@ -1,0 +1,17 @@
+{
+	"Wheats": {
+		"weigth": 70,
+		"price": 100,
+		"name": "wheat"
+	},
+	"Pulse": {
+		"weigth": 40,
+		"price": 70,
+		"name": "pulse"
+	},
+	"Rice": {
+		"weigth": 50,
+		"price": 120,
+		"name": "Basumathi"
+	}
+}
